@@ -1,9 +1,5 @@
-"eventid": {
-  "name": "epicgames_S10_CC_Trios_EU"
-},
-"eventwindohid": {
-  "name": "S10_CC_Trios_EU_Event1"
-},
-"cupname": {
-  "name": "xxx"
+{
+	"eventid": "epicgames_S10_CC_Trios_EU",
+	"eventwindohid": "S10_CC_Trios_EU_Event1",
+	"cupname": "xxx"
 }
